@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   void playSound(int noteNumber) {
-    final audioPlayer = new AudioPlayer();
+    final audioPlayer = AudioPlayer();
     audioPlayer.play(AssetSource('note$noteNumber.wav'));
   }
 
@@ -19,9 +19,9 @@ class MyApp extends StatelessWidget {
         onPressed: () => playSound(noteNumber),
         style: ButtonStyle(
           backgroundColor: MaterialStatePropertyAll(clr),
-          overlayColor: MaterialStatePropertyAll(Colors.transparent),
+          overlayColor: const MaterialStatePropertyAll(Colors.transparent),
         ),
-        child: Text(''),
+        child: const Text(''),
       ),
     );
   }
