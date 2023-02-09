@@ -1,10 +1,12 @@
 
 # Xylophone
 
-This is an flutter project which can be used in multiple platforms applications like Android app, Mac app and web-based applications.
+This is a flutter project which can be used at multiple platforms applications like Android app, Mac app and web-based applications.
 The project Xylophone is a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are.
 
+## User Interface
 
+[xylophoneApp.webm](https://user-images.githubusercontent.com/69446108/217688673-4f8304cc-e833-49ef-a91e-6ebb1fcd527f.webm)
 
 
 ## Learnings throughout project
