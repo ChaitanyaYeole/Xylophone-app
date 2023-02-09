@@ -1,16 +1,54 @@
-# xylophone
 
-A new Flutter project.
+# Xylophone
 
-## Getting Started
+This is an flutter project which can be used in multiple platforms applications like Android app, Mac app and web-based applications.
+The project Xylophone is a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Learnings throughout project
+
+- How to incorporate open source libraries of code into your project using Flutter Packages.
+- How to play sound on both iOS and Android.
+- How to generate repeated user interface Widgets.
+- How to use Dart functions that can take input arguments as well as return an output.
+- Dart arrow syntax for writing one line functions.
+# Getting Started
+
+## Installation and setup
+
+- [Install Flutter](https://flutter.dev/docs/get-started/install)
+- [Install Git for Windows](https://git-scm.com/download/win)
+- [Install Git for Mac](https://desktop.github.com/)
+- [Install Android Studio](https://developer.android.com/studio/)
+- [IOS setup instructions](https://flutter.dev/docs/get-started/install/macos#ios-setup)
+    
+
+## Usage
+
+- [Clone this project with Android](https://www.geeksforgeeks.org/how-to-clone-android-project-from-github-in-android-studio/)
+
+- [Clone this project with VS code](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-visual-studio-code/6-lesson-clone)
+
+
+## Contact me
+
+If you liked my work do not forget to connect me on,
+
+[![portfolio](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://katherineoelsner.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chaitanyayeole7)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitnyayeole/)
+
+
+
+## Feedback
+
+If you have any feedback and having any problem in using or running program do not forget to comment down you thoughts and querys.
+
+
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
